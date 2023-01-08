@@ -7,10 +7,14 @@ Hello, I'm ItsDaniel, thanks for using my resourcepack. Here are some reminders 
 --------------------------------------------------------------------------------------
 
 1.You need Optifine to load the CTM textures(Diamond_ore Obsidian...)
+
 2.This pack contains custom models
+
 3.We will keep updating
+
 4.My totem of undying has its texture defaulted to ItsDan1el's skin. To change it, just rename or replace the original file to your own skin. Remember to change the name of 
 the file.
+
 5.This pack is made for Minecraft Java 1.16, using other version might make the texture buggy.
 
 --------------------------------------------------------------------------------------
