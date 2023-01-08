@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "powered=false,shape=north_south":  { "model": "block/powered_rail_ns" },
+        "powered=false,shape=east_west":  { "model": "block/powered_rail_ew" },
+        "powered=false,shape=ascending_east": { "model": "block/powered_rail_raised_e" },
+        "powered=false,shape=ascending_west": { "model": "block/powered_rail_raised_w" },
+        "powered=false,shape=ascending_north": { "model": "block/powered_rail_raised_n" },
+        "powered=false,shape=ascending_south": { "model": "block/powered_rail_raised_s" },
+        "powered=true,shape=north_south":  { "model": "block/powered_rail_on_ns" },
+        "powered=true,shape=east_west":  { "model": "block/powered_rail_on_ew" },
+        "powered=true,shape=ascending_east": { "model": "block/powered_rail_raised_on_e" },
+        "powered=true,shape=ascending_west": { "model": "block/powered_rail_raised_on_w" },
+        "powered=true,shape=ascending_north": { "model": "block/powered_rail_raised_on_n" },
+        "powered=true,shape=ascending_south": { "model": "block/powered_rail_raised_on_s" }
+    }
+}
