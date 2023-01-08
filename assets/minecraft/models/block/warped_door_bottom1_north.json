@@ -1,0 +1,20 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"2": "block/prismarine_bricks"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 8, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [8, 0, 16, 16], "texture": "#2"},
+				"up": {"uv": [0, 8, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 8], "texture": "#2"}
+			}
+		}
+	]
+}
