@@ -17,6 +17,5 @@ the file.
 
 5.This pack is made for Minecraft Java 1.16, using other version might make the texture buggy.
 
---------------------------------------------------------------------------------------
-Copyright © ItsDan1el 2022    
+--------------------------------------------------------------------------------------  
 Pack modified from Aeroteam's pack.    
