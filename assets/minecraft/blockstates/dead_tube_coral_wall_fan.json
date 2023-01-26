@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=east": { "model": "block/dead_tube_coral_wall_fan_east", "y": 0 },
+        "facing=south": { "model": "block/dead_tube_coral_wall_fan_south", "y": 0 },
+        "facing=west": { "model": "block/dead_tube_coral_wall_fan_west", "y": 0 },
+        "facing=north": { "model": "block/dead_tube_coral_wall_fan_north", "y": 0 }
+    }
+}

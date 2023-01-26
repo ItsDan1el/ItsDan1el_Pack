@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "block/stripped_spruce_wood" },
+        "axis=z":   { "model": "block/stripped_extra1_upside_down" },
+        "axis=x":   { "model": "block/stripped_spruce_wood_upside_down" }
+    }
+}

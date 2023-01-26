@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=east": { "model": "block/green_shulker_box_east", "y": 0 },
+        "facing=south": { "model": "block/green_shulker_south", "y": 0 },
+        "facing=west": { "model": "block/green_shulker_box_west", "y": 0 },
+        "facing=north": { "model": "block/green_shulker_north", "y": 0 }
+    }
+}

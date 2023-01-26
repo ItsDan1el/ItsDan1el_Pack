@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "block/stripped_jungle_wood" },
+        "axis=z":   { "model": "block/stripped_extra2" },
+        "axis=x":   { "model": "block/stripped_jungle_wood_upside_down" }
+    }
+}
