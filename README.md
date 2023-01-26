@@ -21,5 +21,7 @@ the file.
 --------------------------------------------------------------------------------------  
 ### Download:
 
-#### in-dev versions
+#### in-dev versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/archive/refs/heads/main.zip)
 #### full-release versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases)
+
+##### note: the update of the source code might be slower than the release of the full-version, which means the files will be public after the release was made.
