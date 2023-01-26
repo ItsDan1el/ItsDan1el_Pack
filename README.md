@@ -1,10 +1,9 @@
 ![image](https://user-images.githubusercontent.com/111002559/211199415-9f257169-d481-4540-8639-52e81c877fa8.png)
 # Resourcepack
 ---------------------------------------------------------------------------------------
+### Readme:
 
 Hello, I'm ItsDaniel, thanks for using my resourcepack. Here are some reminders for using the pack.
-
---------------------------------------------------------------------------------------
 
 1.You need Optifine to load the CTM textures(Diamond_ore Obsidian...)
 
@@ -20,4 +19,7 @@ the file.
 6.This pack is a modified version of the Aeroteam's pack so credits to them.
 
 --------------------------------------------------------------------------------------  
+### Github:
 
+#### in-dev versions: download by downloading the scorce code.
+#### full-release versions: download by downloading in release
