@@ -19,7 +19,7 @@ the file.
 6.This pack is a modified version of the Aeroteam's pack so credits to them.
 
 --------------------------------------------------------------------------------------  
-### Github:
+### Download:
 
-#### in-dev versions: download by downloading the scorce code.
-#### full-release versions: download by downloading in release
+#### in-dev versions
+#### full-release versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases)
