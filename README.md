@@ -23,7 +23,7 @@ the file.
 --------------------------------------------------------------------------------------  
 ### Download:
 
-#### Latest full-release versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases)
+#### Latest full-release versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases/tag/v1.0.1)
 #### Other Versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases)
 
 --------------------------------------------------------------------------------------  
