@@ -17,8 +17,8 @@ the file.
 5.This pack is made for Minecraft Java 1.16, using other version might make the texture buggy.
 
 6.This pack is a modified version of the Aeroteam's pack so credits to them.
-
 7.File will not be uploaded to github because of the 1000file limit in one directory.
+
 --------------------------------------------------------------------------------------  
 ### Download:
 
