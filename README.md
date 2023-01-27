@@ -23,8 +23,8 @@ the file.
 --------------------------------------------------------------------------------------  
 ### Download:
 
-#### full-release versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases)
-#### in-dev versions: unavaliable
+#### Latest full-release versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases)
+#### Other Versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases)
 
 --------------------------------------------------------------------------------------  
 ### Shaders:
