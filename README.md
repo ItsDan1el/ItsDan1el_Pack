@@ -18,10 +18,9 @@ the file.
 
 6.This pack is a modified version of the Aeroteam's pack so credits to them.
 
+7.File will not be uploaded to github because of the 1000file limit in one directory.
 --------------------------------------------------------------------------------------  
 ### Download:
 
 #### in-dev versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/archive/refs/heads/main.zip)
 #### full-release versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases)
-
-##### note: the update of the source code might be slower than the release of the full-version, which means the files will be public after the release was made.
