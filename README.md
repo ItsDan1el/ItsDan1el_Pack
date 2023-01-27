@@ -23,5 +23,5 @@ the file.
 --------------------------------------------------------------------------------------  
 ### Download:
 
-#### in-dev versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/archive/refs/heads/main.zip)
 #### full-release versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases)
+#### in-dev versions: unavaliable
