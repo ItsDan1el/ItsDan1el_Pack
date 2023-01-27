@@ -1,8 +1,0 @@
-{
-    "parent": "block/torch",
-    "textures": {
-		"0": "block/smooth_stone",
-		"1": "block/redstone_lamp",
-		"particle": "block/smooth_stone"
-	}
-}

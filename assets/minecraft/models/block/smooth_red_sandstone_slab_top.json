@@ -1,8 +1,0 @@
-{
-    "parent": "block/slab_top",
-    "textures": {
-        "bottom": "block/warped_wart_block",
-        "top": "block/warped_wart_block",
-        "side": "block/warped_wart_block"
-    }
-}
