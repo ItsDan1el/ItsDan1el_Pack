@@ -25,7 +25,7 @@ the file.
 --------------------------------------------------------------------------------------  
 ### Download:
 
-#### Latest full-release versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases/tag/v1.0.1)
+#### Latest full-release versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases/tag/v1.0.2)
 #### Other Versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases)
 
 --------------------------------------------------------------------------------------  
@@ -33,6 +33,6 @@ the file.
 
 This resourcepack looks better with shaders, here are some recommended shaders:
 - BSL | [Download](https://www.bslshaders.com/download/)
-- Sildurs Vibrant Shaders | [Download](https://sildurs-shaders.github.io/)
+- Sildurs Shaders | [Download](https://sildurs-shaders.github.io/)
 - SEUS PTGI | [Download](https://www.patreon.com/sonicether)
 - Chocapic13 | [Download](https://www.curseforge.com/minecraft/customization/chocapic13-shaders)
