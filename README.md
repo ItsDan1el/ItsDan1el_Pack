@@ -36,3 +36,9 @@ This resourcepack looks better with shaders, here are some recommended shaders:
 - Sildurs Shaders | [Download](https://sildurs-shaders.github.io/)
 - SEUS PTGI | [Download](https://www.patreon.com/sonicether)
 - Chocapic13 | [Download](https://www.curseforge.com/minecraft/customization/chocapic13-shaders)
+
+
+--------------------------------------------------------------------------------------  
+### Feature Request & Bug Report:
+
+Create a new issue in the [issues page](https://github.com/ItsDan1el/ItsDan1el_Pack/issue), use the category [feature] to request a feature, [bug] to report a bug.
