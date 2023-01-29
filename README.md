@@ -41,4 +41,4 @@ This resourcepack looks better with shaders, here are some recommended shaders:
 --------------------------------------------------------------------------------------  
 ### Feature Request & Bug Report:
 
-Create a new issue in the [issues page](https://github.com/ItsDan1el/ItsDan1el_Pack/issue), use the category [feature] to request a feature, [bug] to report a bug.
+Create a new issue in the [issues page](https://github.com/ItsDan1el/ItsDan1el_Pack/issues), use the lable [feature] to request a feature, [bug] to report a bug.
