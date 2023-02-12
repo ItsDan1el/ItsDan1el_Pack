@@ -11,16 +11,13 @@ Hello, I'm ItsDaniel, thanks for using my resourcepack. Here are some reminders 
 
 3.I will keep updating
 
-4.My totem of undying has its texture defaulted to ItsDan1el's skin. To change it, just rename or replace the original file to your own skin. Remember to change the name of 
-the file.
+4.This pack is made for Minecraft Java 1.16, using other version might make the texture buggy.
 
-5.This pack is made for Minecraft Java 1.16, using other version might make the texture buggy.
+5.This pack is a modified version of the Aeroteam's pack so credits to them. [Aeroteam's Website](https://aeroteam.org/)
 
-6.This pack is a modified version of the Aeroteam's pack so credits to them.
+6.File will not be uploaded to github because of the 1000file limit and because of copyright things.
 
-7.File will not be uploaded to github because of the 1000file limit.
-
-8.Zip file might not work, unzip the file if it doesn't work.
+7.Zip file might not work, unzip the file if it doesn't work. *(TBH, IDK why this happens)*
 
 --------------------------------------------------------------------------------------  
 ### Download:
@@ -36,7 +33,6 @@ This resourcepack looks better with shaders, here are some recommended shaders:
 |-----|------|
 |BSL | [Download](https://www.bslshaders.com/download/)|
 |Sildurs Shaders | [Download](https://sildurs-shaders.github.io/)|
-|SEUS PTGI | [Download](https://www.patreon.com/sonicether)|
 |Chocapic13 | [Download](https://www.curseforge.com/minecraft/customization/chocapic13-shaders)|
 
 
