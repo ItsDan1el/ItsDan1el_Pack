@@ -2,8 +2,8 @@
 ## Textures
 #### Block
 - `cyan_terracotta`
-#### GUI
-- panormama images
+#### Item
+- set `totem_of_undying` back to default
 
 ## Models
 - NONE
