@@ -6,6 +6,8 @@
 #### Item
 - set `totem_of_undying` back to default
 - `jungle_sign`
+#### GUI
+- fixed details in `tab_inventory.png`
 
 ## Models
 - NONE
