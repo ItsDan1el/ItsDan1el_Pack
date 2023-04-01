@@ -6,6 +6,7 @@
 - `smooth_stone`
 - `smooth_sandstone_stairs`
 - `smooth_stone_slab`
+- `dead_tube_coral_fan`
 #### Item
 - set `totem_of_undying` back to default
 - `jungle_sign`
