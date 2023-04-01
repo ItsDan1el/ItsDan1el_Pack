@@ -3,6 +3,9 @@
 #### Block
 - `cyan_terracotta`
 - `jungle_sign`
+- `smooth_stone`
+- `smooth_sandstone_stairs`
+- `smooth_stone_slab`
 #### Item
 - set `totem_of_undying` back to default
 - `jungle_sign`
