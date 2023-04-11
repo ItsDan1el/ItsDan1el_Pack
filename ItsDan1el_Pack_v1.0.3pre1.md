@@ -8,6 +8,7 @@
 - `smooth_stone_slab`
 - `dead_tube_coral_fan`
 - `jungle_trapdoor`
+- `white_wool`
 #### Item
 - set `totem_of_undying` back to default
 - `jungle_sign`
