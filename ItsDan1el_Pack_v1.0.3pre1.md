@@ -17,7 +17,7 @@
 - `jungle_sign`
 #### GUI
 - fixed details in `tab_inventory.png`
-- added inventory frame for offhand in `widgets.png`
+- remade `widgets.png`
 
 ## Models
 - NONE
