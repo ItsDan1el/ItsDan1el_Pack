@@ -20,7 +20,7 @@
 - remade `widgets.png`
 
 ## Models
-- NONE
+- `jukebox`
 
 ## Splashes
 - In line 418: `Pack by ItsDan1el!`
