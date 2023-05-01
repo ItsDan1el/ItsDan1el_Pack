@@ -24,3 +24,7 @@
 
 ## Splashes
 - In line 418: `Pack by ItsDan1el!`
+
+## Music
+- Changed `C418-13` to `3：03 PM - しゃろう(30分耐久フリ)`
+- Changed `C418-11` to `Toby Fox-His Theme`
