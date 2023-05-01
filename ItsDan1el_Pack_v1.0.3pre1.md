@@ -18,6 +18,7 @@
 #### GUI
 - fixed details in `tab_inventory.png`
 - remade `widgets.png`
+- updated `panormama` images to the latest [server](https://itsdan1el.github.io/server) spawn.
 
 ## Models
 - `jukebox`
