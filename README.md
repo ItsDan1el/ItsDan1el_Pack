@@ -22,7 +22,7 @@ Hello, I'm ItsDaniel, thanks for using my resourcepack. Here are some reminders 
 --------------------------------------------------------------------------------------  
 ### Download:
 
-#### Latest full-release versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases/tag/v1.0.2)
+#### Latest full-release versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases/tag/v1.0.3)
 #### Other Versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases)
 
 --------------------------------------------------------------------------------------  
