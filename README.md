@@ -26,3 +26,8 @@ This resource pack looks better with shaders, here are some recommended shaders:
 |BSL | [Download](https://www.bslshaders.com/download/)|
 |Sildurs Shaders | [Download](https://sildurs-shaders.github.io/)|
 |Chocapic13 | [Download](https://www.curseforge.com/minecraft/customization/chocapic13-shaders)|
+
+---
+### `pack.png`
+![pack](https://github.com/ItsDan1el/ItsDan1el_Pack/assets/111002559/03d6f769-539f-4150-ba19-171c7e545c9f)
+
