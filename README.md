@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/111002559/211199415-9f257169-d481-4540-8639-52e81c877fa8.png)
-# Resourcepack
+![edition](https://github.com/ItsDan1el/ItsDan1el_Pack/assets/111002559/013f068c-a817-455a-89e7-8913eed6862a)
 ---------------------------------------------------------------------------------------
 ### Readme:
 
