@@ -9,13 +9,6 @@ Hello, I'm ItsDaniel, thanks for using my resource pack. Here are some things yo
 3. Please post any problems in [issues](https://github.com/ItsDan1el/ItsDan1el_Pack/issues). It can be a bug or a feature request.
 4. This is a modified version of the `Aeroteam's Pack`. [Aeroteam's Website](aeroteam.org)
 5. We are looking for people who can help translate the changed strings in `lang files`. Please [email me](mailto:daniel20100123@outlook.com) if you are interested in helping us. My email: daniel20100123@outlook.com
-
---------------------------------------------------------------------------------------  
-### Download:
-
-#### Latest full-release versions: [click here](https://github.com/ItsDan1el/ItsDan1el_Pack/releases/tag/v1.0.2)
-#### Other Versions: [click here](https://itsdan1el.github.io/pack/all/)
-
 --------------------------------------------------------------------------------------  
 ### Shaders:
 
